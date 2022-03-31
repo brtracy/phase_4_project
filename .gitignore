@@ -6,3 +6,4 @@ __pycache__
 *.pytest_cache
 chest_xray/
 data/
+*.hdf5
